@@ -7,9 +7,9 @@ What you'll learn
 - Explain security ethics
 - Identify common tools used by cybersecurity analysts
 
-## 100 - Module 1: Welcome to the exxiting world of cybersecurity
+## 100 - Module 1: Welcome to the exciting world of cybersecurity
 
-See [Module 1: Welcome to the exxiting world of cybersecurity](./100/README.md)
+See [Module 1: Welcome to the exciting world of cybersecurity](./100/README.md)
 
 ## 200 - Module 2: The evolution of cybersecurity
 
