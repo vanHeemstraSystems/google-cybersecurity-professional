@@ -1,2 +1,38 @@
-# 100 - Module 1: Welcome to the exxiting world of cybersecurity
+# 100 - Module 1: Welcome to the exciting world of cybersecurity
 
+Based on [Module 1: Welcome to the exxiting world of cybersecurity]()
+
+This module provides an overview of Course 1 and provides an introduction to the security certificate program. It introduces the instructor, Coursera platform, content types, learning procedures, and gives learners the opportunity to meet one another. It defines the field of security, describes the primary job responsibilities of those who work in the field, and highlights core skills. Finally, Module 1 offers guidance to learners who are interested in starting careers in the field of security.
+
+## 10 videos - Total 33 minutes
+- Welcome to the Google Cybersecurity Certificate•9 minutes•Preview module
+- Welcome to week 1•1 minute
+- Introduction to cybersecurity•4 minutes
+- Toni: My path to cybersecurity•2 minutes
+- Responsibilities of an entry-level cybersecurity analyst•2 minutes
+- Nikki: A day in the life of a security engineer•2 minutes
+- Core skills for cybersecurity professionals•4 minutes
+- Veronica: My path to working in cybersecurity•1 minute
+- The importance of cybersecurity•3 minutes
+- Wrap-up•0 minutes
+
+## 8 readings - Total 36 minutes
+- Google Cybersecurity Certificate overview•2 minutes
+- Course 1 overview•4 minutes
+- Helpful resources and tips•4 minutes
+- Get the latest updates from Google•4 minutes
+- Participate in program surveys •4 minutes
+- Common cybersecurity terminology•8 minutes
+- Transferable and technical cybersecurity skills •8 minutes
+- Glossary terms from module 1•2 minutes
+
+## 3 assignments - Total 61 minutes
+- Test your knowledge: Introduction to cybersecurity•8 minutes
+- Test your knowledge: Core skills for cybersecurity professionals•8 minutes
+- Module 1 challenge •45 minutes
+
+## 4 plugins - Total 40 minutes
+- Your Google Cybersecurity Certificate roadmap•10 minutes
+- Commit to completing the program•10 minutes
+- Google Cybersecurity Certificate participant entry survey•10 minutes
+- Explore: Keep organizations secure•10 minutes
