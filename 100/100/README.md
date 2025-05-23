@@ -39,8 +39,14 @@ This module provides an overview of Course 1 and provides an introduction to the
 
 ## 100 - Welcome to the Google Cybersecurity Certificate
 
+See [Welcome to the Google Cybersecurity Certificate](./100/README.md)
+
 ## 200 - Google Cybersecurity Certificate Overview
 
 See [Google Cybersecurity Certificate Overview](./200/README.md)
 
-## 300 - ...
+## 300 - Course 1 Overview
+
+See [Course 1 Overview](./300/README.md)
+
+MORE
