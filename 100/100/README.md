@@ -36,3 +36,11 @@ This module provides an overview of Course 1 and provides an introduction to the
 - Commit to completing the program • 10 minutes
 - Google Cybersecurity Certificate participant entry survey • 10 minutes
 - Explore: Keep organizations secure • 10 minutes
+
+## 100 - Welcome to the Google Cybersecurity Certificate
+
+## 200 - Google Cybersecurity Certificate Overview
+
+See [Google Cybersecurity Certificate Overview](./200/README.md)
+
+## 300 - ...
