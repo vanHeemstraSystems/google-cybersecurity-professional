@@ -31,15 +31,46 @@ An internal threat comes from current or former employees, external vendors, or 
 
 Experienced security professionals will help organizations mitigate or reduce the impact of threats like these.
 
+> Benefits of security
+> - Protects against external abd internal threats
+> - Meets regulatory compliance
+
 Security teams also ensure an organization meets regulatory compliance, or laws and guidelines, that require the implementation of specific security standards.
 
 Ensuring that organizations are in compliance may allow them to avoid fines and audits, while also upholding their ethical obligation to protect users.
 
+> Benefits of security
+> - Protects against external abd internal threats
+> - Meets regulatory compliance
+> - Maintains and improves business productivity
+
 Security teams also maintain and improve business productivity. By establishing a plan for business continuity, security teams allow people to do their jobs, even in the case of something like a data breach.
 
-Being security conscious can also reduce expenses associated with risks, such as recovering from data loss or operational downtime, and potentially avoiding fines. The last benefit of security that we'll discuss is maintaining brand trust. If services or customer data are compromised, this can lower trust in the organization, damage the brand, and hurt the business in the long term. Loss of customer trust may also lead to less revenue for the business.
+> Benefits of security
+> - Protects against external abd internal threats
+> - Meets regulatory compliance
+> - Maintains and improves business productivity
+> - Reduces expenses
 
-Now, let's go over some common security-based roles. After completing this certificate program, here are some job titles you may want to search for: Security analyst or specialist, Cybersecurity analyst or specialist, Security operation center or SOC analyst, Information security analyst.
+Being security conscious can also reduce expenses associated with risks, such as recovering from data loss or operational downtime, and potentially avoiding fines. 
+
+> - Protects against external abd internal threats
+> - Meets regulatory compliance
+> - Maintains and improves business productivity
+> - Reduces expenses
+> - Maintains brand trust
+
+The last benefit of security that we'll discuss is maintaining brand trust. If services or customer data are compromised, this can lower trust in the organization, damage the brand, and hurt the business in the long term. Loss of customer trust may also lead to less revenue for the business.
+
+Now, let's go over some common security-based roles. After completing this certificate program, here are some job titles you may want to search for: 
+
+> Common job titles
+> - Security analyst or specialist
+> - Cybersecurity analyst or specialist
+> - Security operation center (SCO) analyst
+> - Information security analyst
+
+Security analyst or specialist, Cybersecurity analyst or specialist, Security operation center or SOC analyst, Information security analyst.
 
 You'll also learn more about the responsibilities associated with some of these job titles later in the program.
 
