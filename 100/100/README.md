@@ -61,4 +61,8 @@ See [Welcome to Week 1](./500/README.md)
 
 See [Commit to Completing the Program](./600/README.md)
 
+## 700 - Helpful Resources and Tips
+
+See [Helpful Resources and Tips](./700/README.md)
+
 MORE
