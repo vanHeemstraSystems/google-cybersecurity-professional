@@ -94,4 +94,30 @@ I work best with a structured learning style. So turning to a lot of these onlin
 
 So you have to work well with your teammates in order to be able to build that knowledge base. My advice would be to stay curious and keep learning, especially focusing on your technical skills and growing those throughout your career. It's really easy to get imposter syndrome in cybersecurity because it's so broad and mastery of all these different areas is a lifetime's work. And sometimes that imposter syndrome can shut us down and make it feel like, why bother trying to keep growing. I'm never going to be able to master this instead of motivating us. So keep learning, push through that fear. The efforts always going to be rewarded.
 
+<hr/>
+
+Video [Responsibilities of an entry-level cybersecurity analyst](https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/Dqgxy/responsibilities-of-an-entry-level-cybersecurity-analyst)
+
+Transcript:
+
+Technology is rapidly changing and so are the tactics and techniques that attackers use. As digital infrastructure evolves, security professionals are expected to continually grow their skills in order to protect and secure sensitive information. In this video, we'll discuss some job responsibilities of an entry-level security analyst.
+
+So, what do security analysts do? Security analysts are responsible for monitoring and protecting information and systems.
+
+Now, we'll discuss three primary responsibilities of a security analyst, starting with protecting computer and network systems. Protecting computer and network systems requires an analyst to monitor an organization's internal network. If a threat is detected, then an analyst is generally the first to respond. Analysts also often take part in exercises to search for weaknesses in an organization's own systems.
+
+For example, a security analyst may contribute to penetration testing or ethical hacking. The goal is to penetrate or hack their own organization's internal network to identify vulnerabilities and suggest ways to strengthen their security measures.
+
+Think of it like this. After you lock your car, you check the door handles to make sure no one can access any valuables you keep inside.
+
+Security analysts also proactively work to prevent threats from happening in the first place. One way they do this is by working with information technology, or IT, teams to install prevention software for the purposes of identifying risks and vulnerabilities.
+
+Analysts may also be involved in software and hardware development. They'll often work with development teams to support product security by setting up appropriate processes and systems to meet the organization's data protection needs.
+
+The last task we'll discuss is conducting periodic security audits. A security audit is a review of an organization's security records, activities, and other related documents. For example, an analyst may examine in-house security issues, such as making sure that confidential information, like individual computer passwords, isn't available to all employees.
+
+Phew, that was a lot to cover! But hopefully you have a general idea of what entry-level security analysts do on a day-to-day basis.
+
+Security analysts are an important part of any organization. Their daily tasks protect small businesses, large companies, nonprofit organizations, and government agencies. They also help to ensure that the people served by those organizations remain safe.
+
 MORE
