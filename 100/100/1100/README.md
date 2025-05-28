@@ -75,3 +75,11 @@ Security analyst or specialist, Cybersecurity analyst or specialist, Security op
 You'll also learn more about the responsibilities associated with some of these job titles later in the program.
 
 As you may now realize, the field of security includes many topics and concepts and every activity you complete in this program moves you one step closer to a new job. Let's keep learning together.
+
+<hr/>
+
+Video [Toni: My path to cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/lecture/TMBZo/toni-my-path-to-cybersecurity)
+
+Transcript:
+
+MORE
