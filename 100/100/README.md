@@ -51,10 +51,14 @@ See [Course 1 Overview](./300/README.md)
 
 ## 400 - Your Google Cybersecurity Certificate Roadmap
 
-See https://www.coursera.org/learn/foundations-of-cybersecurity/ungradedWidget/XkeaO/your-google-cybersecurity-certificate-roadmap
+See [Your Google Cybersecurity Certificate Roadmap](./400/README.md)
 
 ## 500 - Welcome to Week 1
 
-See [Welcome to Week 1](./400/README.md)
+See [Welcome to Week 1](./500/README.md)
+
+## 600 - Commit to Completing the Program
+
+See [Commit to Completing the Program](./600/README.md)
 
 MORE
