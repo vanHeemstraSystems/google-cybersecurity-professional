@@ -65,4 +65,8 @@ See [Commit to Completing the Program](./600/README.md)
 
 See [Helpful Resources and Tips](./700/README.md)
 
+## 800 - Get the Latest Updates from Google
+
+See [Get the Latest Updates from Google](./800/README.md)
+
 MORE
