@@ -12,7 +12,9 @@ As a security analyst, you'll work to protect your organization and the people i
 
 To help you better understand what this means, we'll define security and discuss the roles of security professionals in organizations.
 
-Let's start with some definitions: Cybersecurity, or security, is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
+Let's start with some definitions: 
+
+> Cybersecurity, or security, is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
 
 For example, requiring complex passwords to access sites and services improves confidentiality by making it much more difficult for a threat actor to compromise them. A threat actor is any person or group who presents a security risk.
 
