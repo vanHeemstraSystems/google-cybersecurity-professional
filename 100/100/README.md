@@ -1,6 +1,6 @@
 # 100 - Module 1: Welcome to the exciting world of cybersecurity
 
-Based on [Module 1: Welcome to the exxiting world of cybersecurity]()
+Based on [Module 1: Welcome to the exciting world of cybersecurity]()
 
 This module provides an overview of Course 1 and provides an introduction to the security certificate program. It introduces the instructor, Coursera platform, content types, learning procedures, and gives learners the opportunity to meet one another. It defines the field of security, describes the primary job responsibilities of those who work in the field, and highlights core skills. Finally, Module 1 offers guidance to learners who are interested in starting careers in the field of security.
 
