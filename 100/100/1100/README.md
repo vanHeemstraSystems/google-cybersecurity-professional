@@ -16,9 +16,14 @@ Let's start with some definitions:
 
 > Cybersecurity, or security, is the practice of ensuring confidentiality, integrity, and availability of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation.
 
-For example, requiring complex passwords to access sites and services improves confidentiality by making it much more difficult for a threat actor to compromise them. A threat actor is any person or group who presents a security risk.
+For example, requiring complex passwords to access sites and services improves confidentiality by making it much more difficult for a threat actor to compromise them. 
+
+> A threat actor is any person or group who presents a security risk.
 
 Now that you know the definition of security, let's discuss what security teams do for an organization.
+
+> Benefits of security
+> - Protects against external abd internal threats
 
 Security protects against external and internal threats. An external threat is someone outside of the organization trying to gain access to private information, networks or devices.
 
